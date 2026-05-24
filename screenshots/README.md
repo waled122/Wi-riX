@@ -1,0 +1,1 @@
+﻿# Screenshots Directory - صور الشاشة

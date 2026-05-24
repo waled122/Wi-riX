@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+
+# Virtual Environment
+venv/
+ENV/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.suo
+
+# Framework specific
+reports/*.json
+reports/*.html
+shells/*.txt
+targets/targets_*.txt
+logs/*.log
+config/local_*.json
+
+# Windows
+Thumbs.db
+desktop.ini
+*.exe
+
+# Secrets
+*.key
+*.pem
+.env
+.secrets
+
+# OS
+.DS_Store

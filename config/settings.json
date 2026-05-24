@@ -1,0 +1,10 @@
+{
+    "framework_name": "Wi-riX Framework",
+    "version": "5.0.0",
+    "developer": "Wi-riX",
+    "threads": 10,
+    "timeout": 15,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+    "auto_update": true,
+    "save_reports": true
+}
