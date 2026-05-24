@@ -21,3 +21,10 @@ git clone https://github.com/waled122/Wi-riX.git
 cd Wi-riX
 pip install -r requirements.txt
 python wirix.py
+## 🔄 **تحديث الأداة إلى أحدث إصدار**
+
+للتأكد من أن لديك أحدث الميزات والثغرات، استخدم الأمر التالي داخل مجلد الأداة:
+
+```bash
+cd ~/Wi-riX
+git pull origin main --allow-unrelated-histories
