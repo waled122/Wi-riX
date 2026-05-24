@@ -1,0 +1,15 @@
+{
+    "version": "5.0.0",
+    "last_update": "2026-05-24",
+    "changelog": [
+        "إضافة نظام تحديث تلقائي",
+        "تحسين واجهة المستخدم",
+        "إضافة ثغرات جديدة",
+        "إصلاح مشاكل الفحص"
+    ],
+    "files": [
+        "wirix.py",
+        "exploits/exploits_db.json",
+        "scripts/update.py"
+    ]
+}
